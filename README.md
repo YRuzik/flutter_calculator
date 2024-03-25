@@ -1,4 +1,4 @@
-# katrin_calculator
+# calc
 
 A new Flutter project.
 
